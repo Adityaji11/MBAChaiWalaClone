@@ -1,0 +1,16 @@
+.Intro {
+    height: calc(100vh - 50px);
+}
+
+.Intro  video {
+      width: 100%;
+      margin-top: -50px;
+    }
+  
+.Intro  div {
+      width: 100%;
+      height: calc(100vh - 50px);
+      position: absolute;
+      top: 0%; 
+    }
+  

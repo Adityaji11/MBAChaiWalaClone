@@ -1,0 +1,32 @@
+
+  
+  .logo {
+    position: fixed;
+    top: 2rem;
+    left: 2rem;
+    width: 9rem;
+  }
+    .logo  img {
+      width: 100%;
+    }
+  
+  .franchiseBtn {
+    text-decoration: none;
+    background-color: #6d3d0f;
+    color: #fff100;
+    position: fixed;
+    top: 1rem;
+    right: 5rem;
+    letter-spacing: 2px;
+    font: 700 14px "Montserrat";
+    padding: 0.7rem 1rem;
+    border: none;
+    border-radius: 7px;
+    transform-origin: bottom;
+    transition: transform 0.5s;
+    &:hover {
+      transform: skewX(-10deg);
+    }
+  }
+  
+  
